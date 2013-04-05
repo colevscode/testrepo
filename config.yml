@@ -1,0 +1,12 @@
+scripts:
+- /**/*.js
+
+styles:
+- /bootstrap*.css
+- /**/*.css
+
+compile:
+- /**/*.scss
+
+dependencies:
+    /admin: github.com/laurihy/backlift-admin
