@@ -1,3 +1,3 @@
-##testrepo
+##verbose
 
 A new repo
