@@ -9,4 +9,4 @@ compile:
 - /**/*.scss
 
 dependencies:
-    /admin: github.com/laurihy/backlift-admin
+    /admin: github.com/backlift/backlift-admin
