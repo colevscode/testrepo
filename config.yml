@@ -1,9 +1,11 @@
 scripts:
-- /**/*.js
+- /libraries/underscore/underscore.js
+- /libraries/backbone/backbone.js
+- /*.js
 
 styles:
 - /bootstrap*.css
-- /**/*.css
+- /*.css
 
 compile:
 - /**/*.scss
