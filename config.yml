@@ -15,5 +15,5 @@ include:
     - gist.github.com/colevscode/cd59e6feee084af196f4
     libraries/backbone:
     - github.com/documentcloud/backbone/tree/1.0.0
-	libraries/underscore:
-	- github.com/documentcloud/underscore/tree/1.4.4
+    libraries/underscore:
+    - github.com/documentcloud/underscore/tree/1.4.4
