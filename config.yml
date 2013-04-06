@@ -15,7 +15,7 @@ include:
     admin: 
     - github.com/backlift/backlift-admin
     libraries: 
-	- gist.github.com/backlift/5325013 # backlift-reloader.js
+    - gist.github.com/backlift/5325013 # backlift-reloader.js
     libraries/backbone:
     - github.com/documentcloud/backbone/tree/1.0.0
     libraries/underscore:
