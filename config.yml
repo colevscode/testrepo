@@ -1,12 +1,13 @@
 scripts:
 - /libraries/backlift-reloader.js
-- /libraries/underscore/underscore.js
-- /libraries/backbone/backbone.js
-- /*.js
+- /libraries/jquery.js
+- /libraries/underscore.js
+- /libraries/backbone.js
+- /**/*.js
 
 styles:
 - /bootstrap*.css
-- /*.css
+- /**/*.css
 
 compile:
 - /**/*.scss
@@ -16,7 +17,4 @@ include:
   - github.com/backlift/backlift-admin
   libraries: 
   - gist.github.com/backlift/5325013 # backlift-reloader.js
-  libraries/backbone:
-  - github.com/documentcloud/backbone/tree/1.0.0
-  libraries/underscore:
-  - github.com/documentcloud/underscore/tree/1.4.4
+  - github.com/backlift/backbone-bundle/tree/20130406
