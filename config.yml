@@ -13,11 +13,8 @@ compile:
 - /**/*.scss
 
 include:
-  admin: 
-  - github.com/backlift/backlift-admin
-  libraries/scripts: 
-  - gist.github.com/backlift/5325013 # backlift-reloader.js
-  libraries:
-  - github.com/backlift/backbone-bundle/tree/20130406
+  admin: github.com/backlift/backlift-admin
+  libraries: github.com/backlift/backbone-bundle/tree/20130406
+  libraries/scripts: gist.github.com/backlift/5325013 # backlift-reloader.js
 
 optimize: no
